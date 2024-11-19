@@ -1,7 +1,7 @@
 # MGFNet-MLP-Gated-Fusion-Network
 A Deep-Learning method for optical and SAR semantic segmentation 
 
-MGFNet: An MLP-dominated gated fusion network for semantic segmentation of high-resolution multi-modal remote sensing images
+Tile: MGFNet: An MLP-dominated gated fusion network for semantic segmentation of high-resolution multi-modal remote sensing images
 
 ![图片alt](MGF.bmp)
 
@@ -68,6 +68,7 @@ $ python scripts/val_unet.py --cfg configs/CONFIG_FILE.yaml
 - Pretrain Weights(ImageNet-1k): [https://drive.google.com/drive/folders/17Hlq7GpA5Ijjqs1yQTaPRRbQCcPLWTwh?usp=sharing](https://drive.google.com/drive/folders/17Hlq7GpA5Ijjqs1yQTaPRRbQCcPLWTwh?usp=sharing)
 ### 
 5. __Cites__:
+
 {
 Kan Wei, JinKun Dai, Danfeng Hong, Yuanxin Ye,
 MGFNet: An MLP-dominated gated fusion network for semantic segmentation of high-resolution multi-modal remote sensing images,
